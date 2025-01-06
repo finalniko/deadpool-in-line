@@ -1,3 +1,11 @@
+/*
+nikoloz tkemaladze
+age:15
+571370510
+email:nikoloztkemaladze0910@gmail.com
+*/
+
+
 #include <windows.h>
 
 int main()
